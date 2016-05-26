@@ -1,3 +1,1 @@
-loop do
-  puts "だるい"
-end
+puts "だるい" while true
